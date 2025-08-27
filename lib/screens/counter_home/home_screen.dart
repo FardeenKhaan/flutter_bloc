@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_bloc_practice/bloc/counter_bloc.dart';
-import 'package:flutter_bloc_practice/bloc/counter_event.dart';
-import 'package:flutter_bloc_practice/bloc/counter_state.dart';
+import 'package:flutter_bloc_practice/bloc/counter/counter_bloc.dart';
+import 'package:flutter_bloc_practice/bloc/counter/counter_event.dart';
+import 'package:flutter_bloc_practice/bloc/counter/counter_state.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
