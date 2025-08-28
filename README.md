@@ -1,4 +1,4 @@
-# flutter_bloc
+# Flutter-Bloc (State management)
 
 A new Flutter project.
 
